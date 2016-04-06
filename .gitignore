@@ -1,0 +1,14 @@
+
+*.o
+*.so
+*.d
+*.root
+*.jdl
+
+*.png
+*.pdf
+*.eps
+
+AutoDict_*
+
+
