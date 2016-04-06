@@ -8,6 +8,8 @@
 *.png
 *.pdf
 *.eps
+*.jpg
+*.jpeg
 
 AutoDict_*
 
